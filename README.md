@@ -10,6 +10,7 @@ reference to the data set - https://www.kaggle.com/datasets/barun2104/telecom-ch
 Inspiration 
 
 1.Who are the customers about to churn?
+
 2.Which features are contributing to customer churn?
 
 
